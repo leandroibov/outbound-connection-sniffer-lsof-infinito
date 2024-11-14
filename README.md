@@ -1,4 +1,6 @@
-###outbound-connection-sniffer
+# Outbound Connection Sniffer
+
+Use Control + C to stop the outbound-connection-sniffer and see the report `lsof.txt` created in the folder where you executed `lsof_infinito.sh`!
 
 How use:
 
