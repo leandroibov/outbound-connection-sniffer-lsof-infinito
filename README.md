@@ -12,9 +12,12 @@ Use Control + C to stop the outbound-connection-sniffer and see the report lsof.
 
 # Doe monero para nos ajudar: (Donate XMR - Monero):
 
-## 87JGuuwXzoMGwQAcSD7cvS7D7iacPpN2f5bVqETbUvCgdEmrPZa12gh5DSiKKRgdU7c5n5x1UvZLj8PQ7AAJSso5CQxgjak
+
+87JGuuwXzoMGwQAcSD7cvS7D7iacPpN2f5bVqETbUvCgdEmrPZa12gh5DSiKKRgdU7c5n5x1UvZLj8PQ7AAJSso5CQxgjak
+
 
 Página oficial de segurança digital:
+
 
 https://traderprofissional.com.br/seguranca-digital.aspx
 
