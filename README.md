@@ -10,3 +10,8 @@ chmod +x lsof_infinito.sh
 
 Use Control + C to stop the outbound-connection-sniffer and see the report lsof.txt created in the folder where you executed lsof_infinito.sh!
 
+
+#   Vídeo tutorial youtube:
+
+https://www.youtube.com/watch?v=qfoA-AAejto
+
